@@ -1,13 +1,6 @@
-#CODESOFT: Basic Calculator
+# CODESOFT : task 3 Basic Calculator
+A simple, interactive calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean user interface with a display screen for input and output and uses the CSS grid system to align buttons neatly.
 
-CODESOFT is a simple and interactive calculator built with HTML, CSS, and JavaScript. It performs essential arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean, user-friendly interface with a display screen to show user input and results. It uses the CSS Grid system for neat alignment of the buttons, making it both functional and visually appealing.
-
-Features
-Basic Arithmetic: Perform addition, subtraction, multiplication, and division.
-Live Display: Real-time feedback for input and results.
-Clear Button: A reset button to clear the screen and start fresh.
-Responsive Layout: Optimized for different screen sizes using CSS Grid.
-Technologies Used
 HTML: Provides the structure of the calculator, including buttons and display.
 CSS: Styles the calculator and aligns buttons using the CSS Grid system for a responsive layout.
 JavaScript: Implements the core logic for handling user input and performing calculations.
