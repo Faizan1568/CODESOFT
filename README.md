@@ -15,4 +15,3 @@ CSS: Styles the calculator and aligns buttons using the CSS Grid system for a re
 JavaScript: Implements the core logic for handling user input and performing calculations.
 Live Demo
 Try out the live version of the calculator here: [CODESOFT - Basic Calculator ](https://faizan1568.github.io/CODESOFT/)
-Try out the live version of the calculator here: 
